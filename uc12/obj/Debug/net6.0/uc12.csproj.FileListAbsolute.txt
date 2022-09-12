@@ -1,0 +1,15 @@
+D:\senai\uc12\bin\Debug\net6.0\uc12.exe
+D:\senai\uc12\bin\Debug\net6.0\uc12.deps.json
+D:\senai\uc12\bin\Debug\net6.0\uc12.runtimeconfig.json
+D:\senai\uc12\bin\Debug\net6.0\uc12.dll
+D:\senai\uc12\bin\Debug\net6.0\uc12.pdb
+D:\senai\uc12\obj\Debug\net6.0\uc12.csproj.AssemblyReference.cache
+D:\senai\uc12\obj\Debug\net6.0\uc12.GeneratedMSBuildEditorConfig.editorconfig
+D:\senai\uc12\obj\Debug\net6.0\uc12.AssemblyInfoInputs.cache
+D:\senai\uc12\obj\Debug\net6.0\uc12.AssemblyInfo.cs
+D:\senai\uc12\obj\Debug\net6.0\uc12.csproj.CoreCompileInputs.cache
+D:\senai\uc12\obj\Debug\net6.0\uc12.dll
+D:\senai\uc12\obj\Debug\net6.0\refint\uc12.dll
+D:\senai\uc12\obj\Debug\net6.0\uc12.pdb
+D:\senai\uc12\obj\Debug\net6.0\uc12.genruntimeconfig.cache
+D:\senai\uc12\obj\Debug\net6.0\ref\uc12.dll
