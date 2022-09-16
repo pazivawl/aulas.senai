@@ -1,3 +1,7 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace uc12
 {
@@ -5,10 +9,7 @@ namespace uc12
     {
         public string nome {get; set;}
 
-        public string endereco {get; set;}
-        
-        public bool enderecocomercial { get; set; }
-
-        public void pagarimposto(){}
+        public Endereco endereco {get; set;}
+        public abstract void pagarimposto(float rendimento);
     }
 }
