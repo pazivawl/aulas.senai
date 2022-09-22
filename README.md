@@ -19,3 +19,5 @@ git pull
 git push -u origin master
 git checkout -b tarefa/minha-primeira-branch
 17be20bb5681110db36ded453030828876276137
+professor terminei essa parte do angular mas em outro pc e quando clone em um novo pc deu este erro (An unhandled exception occurred: Invalid or unexpected token
+See "C:\Users\Gabriel\AppData\Local\Temp\ng-LfFQ7i\angular-errors.log" for further details.) e nao consegui testar novamente

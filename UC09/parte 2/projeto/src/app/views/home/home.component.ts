@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { User } from './models/user';
 
 @Component({
   selector: 'app-home',
@@ -11,5 +12,9 @@ export class HomeComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  userModel = new User("","")
 
+  onSubmit(){
+    console.log(this.userModel)
+  }
 }

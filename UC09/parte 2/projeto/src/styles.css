@@ -1,3 +1,6 @@
+body{
+    background-color: #E3170A;
+}
 *{
     margin: 0%;
     padding: 0%;
@@ -53,7 +56,7 @@ header, div{
 
 }
 #banner{
-    background-image: url(/img/pexels-athena-2582935.jpg);
+    background-image: url(./assets/pexels-athena-2582935.jpg);
     background-size: 100% 400px;
     
     width: 100%;
